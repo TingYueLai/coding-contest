@@ -4,6 +4,9 @@
         "iostream": "cpp",
         "tuple": "cpp",
         "iosfwd": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "vector": "cpp",
+        "__tree": "cpp",
+        "set": "cpp"
     }
 }
